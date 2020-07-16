@@ -1,0 +1,143 @@
+body {
+  background:'#fff';
+  background-size:cover;
+    margin: 0;
+    
+    font-family: 'Montserrat', sans-serif;  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height:100%;
+  
+}
+
+.updates{
+  margin:20px;
+  padding:10px;
+}
+
+.home {
+  padding-top:150px;
+}
+.rectangle{
+  width:300px;height:250px;
+  background:rgba(255,255,255,0.5);
+}
+input {
+  border:0;
+  border-bottom: 1px solid gray;
+}
+
+input:hover{
+  border:0;
+  border-bottom: 1px solid black;
+}
+input:focus {
+  border:0;
+  border-bottom: 1px solid black;
+}
+
+.leftbox{
+ 
+  position:absolute;
+  left:0px;
+ 
+}
+.rightbox{
+  
+  position:absolute;
+  right:0px;
+  text-align: right;
+}
+
+.rightbox , .leftbox {
+  font-weight: bold;
+  font-size: 1.5em;
+  padding:35px;
+  margin:40px 20px;
+  width:500px;height:100px;
+  border-radius:50px;
+  background:rgba(255,255,255,0.2);
+ color:white;
+ margin-top:30px;
+}
+nav {background:none;}
+.nav-link:hover {
+  background: none;
+
+}
+
+ .active,.nav-item:focus,.nav-item:visited,.nav-item a > .active:focus {
+display:block;
+padding:0.5rem 1rem;}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.center {
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+  align-items: center;
+}
+
+.fa {
+  color:gray;
+}
+
+
+.navbar {
+  background: black;
+}
+.mainrow {
+  padding:40px;}
+.maincol p {
+  padding:25px;
+}
+.mycontainer {background: #eeeeee;}
+.mainrow p {
+  line-height: 28px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.home {margin:0;}
+
+@media screen and (max-width: 601px) {
+  .mobile {
+    display:block;
+  }
+  .laptop {
+    display:none;
+  }
+
+}
+@media screen and (min-width: 600px) {
+  .mobile {
+    display:none;
+  }
+  
+}
+
+@media screen and (max-width: 601px) {
+  .home h2 {
+    font-size: 30px;
+  }
+  .navbar {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    background: white;
+  }
+ 
+  .navbar-nav{
+    background: light-grey;
+  }
+  .navbar-toggler-icon
+ {
+   height:1.3em;
+   margin:10px;
+   border:none;
+ }
+}
+ .mycontainer-m {
+   padding:30px;
+   background: #eeeeee;
+ }
