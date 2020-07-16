@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/disastermanagement/static/css/main.32426efc.chunk.css",
+    "main.js": "/disastermanagement/static/js/main.3580683e.chunk.js",
+    "main.js.map": "/disastermanagement/static/js/main.3580683e.chunk.js.map",
+    "runtime-main.js": "/disastermanagement/static/js/runtime-main.92d3f31c.js",
+    "runtime-main.js.map": "/disastermanagement/static/js/runtime-main.92d3f31c.js.map",
+    "static/js/2.07f6c1da.chunk.js": "/disastermanagement/static/js/2.07f6c1da.chunk.js",
+    "static/js/2.07f6c1da.chunk.js.map": "/disastermanagement/static/js/2.07f6c1da.chunk.js.map",
+    "index.html": "/disastermanagement/index.html",
+    "precache-manifest.ed83682f48a1f12f9b86bd985768cf0c.js": "/disastermanagement/precache-manifest.ed83682f48a1f12f9b86bd985768cf0c.js",
+    "service-worker.js": "/disastermanagement/service-worker.js",
+    "static/css/main.32426efc.chunk.css.map": "/disastermanagement/static/css/main.32426efc.chunk.css.map",
+    "static/js/2.07f6c1da.chunk.js.LICENSE.txt": "/disastermanagement/static/js/2.07f6c1da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d3f31c.js",
+    "static/js/2.07f6c1da.chunk.js",
+    "static/css/main.32426efc.chunk.css",
+    "static/js/main.3580683e.chunk.js"
+  ]
+}
